@@ -1,3 +1,3 @@
 # Ender-3-Modifications
 
-![](images/img-1.png)
+![](Images/img-1.png)
