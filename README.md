@@ -4,6 +4,7 @@
 Select `File -> preferences`
 
 ![Select additional board manager URLs](Images/img-2.png)
+
 Select <img src="Images/img-3.png" height="36"> at the end of the "Additional Board Manager URLs" line
 
 ![Add sanguino repository](Images/img-4.png)
