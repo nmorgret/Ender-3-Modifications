@@ -35,7 +35,7 @@ Select `Tools -> Board... -> Sanguino`
 
 ![Select processor](Images/img-8.png)
 
-Select `ATmega1284 or ATmega1284P (8 MHz)`
+Select `ATmega1284 or ATmega1284P (16 MHz)`
 
 ### Install U8glib library
 ![Select manage libraries](Images/img-9.png)
